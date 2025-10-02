@@ -9,7 +9,6 @@ public class Main {
         System.out.println(list);
         list.addLast(10);
         System.out.println(list);
-
         list.removeFirst();
         list.removeFirst();
         list.removeFirst();
